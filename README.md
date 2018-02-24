@@ -1,2 +1,2 @@
 # impacta-front-end
-Projeto desenvolvido pára apoio de treinamento frontend
+Projeto desenvolvido para apoio de treinamento frontend
